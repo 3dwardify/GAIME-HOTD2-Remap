@@ -25,13 +25,13 @@ You will need AutoHotkey v2 for this script to function.
 The G'AIM'E light gun simulates both keyboard and mouse - Below are the native button outputs from the gun to the keyboard, and what key AutoHotkey simulates.  
 (See Picture in repo)
 ```
-GUN     >>> Keyboard   >>> AutoHotkey >>> HOTD2
+GUN > > > Keyboard > > > AutoHotkey > > > HOTD2
 
-Trigger > Left Click   > Left Click   > Shoot
-A       > Space Bar    > Right Click  > Reload
-B       > B            > Enter        > Pause / Start
-Coin    > C            > Up Arrow     > Navigate Up
-Pause   > Q            > Down Arrow   > Navigate Down
+Trigger > Left Click   > Left Click     > Shoot
+A       > Space Bar    > Right Click    > Reload
+B       > B            > Enter          > Pause / Start
+Coin    > C            > Up Arrow       > Navigate Up
+Pause   > Q            > Down Arrow     > Navigate Down
 ```
 
 ℹ️ Notes
